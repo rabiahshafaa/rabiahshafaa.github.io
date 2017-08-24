@@ -1,0 +1,826 @@
+/* Start here */
+
+body {
+    width: 1500px;
+    height: 1600px;
+}
+
+.the1 {
+    -webkit-transform: rotateZ(270deg); /* Safari */
+    transform: rotateZ(270deg);
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    position: absolute;
+    left: 10px;
+    top:230px;
+}
+.the2 {
+    -webkit-transform: rotateZ(300deg); /* Safari */
+    transform: rotateZ(300deg);
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    position: absolute;
+    left: 40px;
+    top:140px;
+}
+.the3 {
+    -webkit-transform: rotateZ(330deg); /* Safari */
+    transform: rotateZ(330deg);
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    position: absolute;
+    left: 100px;
+    top:80px;
+}
+.the4 {
+   -webkit-transform: rotateZ(360deg); /* Safari */
+    transform: rotateZ(360deg);
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    position: absolute;
+    left: 190px;
+    top:60px; 
+}
+.the5 {
+    -webkit-transform: rotateZ(30deg); /* Safari */
+    transform: rotateZ(30deg);
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    position: absolute;
+    left: 280px;
+    top:80px;
+}
+.the6 {
+    -webkit-transform: rotateZ(60deg); /* Safari */
+    transform: rotateZ(60deg);
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    position: absolute;
+    left: 340px;
+    top:140px;
+}  
+.the7 {
+    -webkit-transform: rotateZ(90deg); /* Safari */
+    transform: rotateZ(90deg);
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    position: absolute;
+    left: 370px;
+    top:230px;
+}
+.the8 {
+    -webkit-transform: rotateZ(120deg); /* Safari */
+    transform: rotateZ(120deg);
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    position: absolute;
+    left: 340px;
+    top:320px;
+}
+.the9 {
+    -webkit-transform: rotateZ(150deg); /* Safari */
+    transform: rotateZ(150deg);
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    position: absolute;
+    left: 280px;
+    top:380px;
+}
+.the10 {
+   -webkit-transform: rotateZ(180deg); /* Safari */
+    transform: rotateZ(180deg);
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    position: absolute;
+    left: 190px;
+    top:400px;
+}
+.the11 {
+    -webkit-transform: rotateZ(210deg); /* Safari */
+    transform: rotateZ(210deg);
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    position: absolute;
+    left: 100px;
+    top:380px;
+}
+.the12 {
+    -webkit-transform: rotateZ(240deg); /* Safari */
+    transform: rotateZ(240deg);
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    position: absolute;
+    left: 40px;
+    top:320px;
+}
+
+.the {
+    position: absolute;
+    left: 50px;
+    top:50px;
+}
+
+
+
+.point1 {
+    -webkit-transform: rotateZ(270deg); /* Safari */
+    transform: rotateZ(270deg);
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: sans-serif;
+    position: absolute;
+    left: 10px;
+    top:230px;
+}
+.point2 {
+    -webkit-transform: rotateZ(300deg); /* Safari */
+    transform: rotateZ(300deg);
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: sans-serif;
+    position: absolute;
+    left: 40px;
+    top:140px;
+}
+.point3 {
+    -webkit-transform: rotateZ(330deg); /* Safari */
+    transform: rotateZ(330deg);
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: sans-serif;
+    position: absolute;
+    left: 100px;
+    top:80px;
+}
+.point4 {
+ -webkit-transform: rotateZ(360deg); /* Safari */
+    transform: rotateZ(360deg);
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: sans-serif;
+    position: absolute;
+    left: 190px;
+    top:60px;    
+}
+.point5 {
+    -webkit-transform: rotateZ(30deg); /* Safari */
+    transform: rotateZ(30deg);
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: sans-serif;
+    position: absolute;
+    left: 280px;
+    top:80px;
+}
+.point6 {
+    -webkit-transform: rotateZ(60deg); /* Safari */
+    transform: rotateZ(60deg);
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: sans-serif;
+    position: absolute;
+    left: 340px;
+    top:140px;
+}
+.point7 {
+    -webkit-transform: rotateZ(90deg); /* Safari */
+    transform: rotateZ(90deg);
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: sans-serif;
+    position: absolute;
+    left: 370px;
+    top:230px;
+}
+.point8 {
+    -webkit-transform: rotateZ(120deg); /* Safari */
+    transform: rotateZ(120deg);
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 00;
+    font-family: sans-serif;
+    position: absolute;
+    left: 340px;
+    top:320px;
+}
+.point9 {
+    -webkit-transform: rotateZ(150deg); /* Safari */
+    transform: rotateZ(150deg);
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: sans-serif;
+    position: absolute;
+    left: 280px;
+    top:380px;
+}
+.point10 {
+    -webkit-transform: rotateZ(180deg); /* Safari */
+    transform: rotateZ(180deg);
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: sans-serif;
+    position: absolute;
+    left: 190px;
+    top:400px;
+}
+.point11 {
+    -webkit-transform: rotateZ(210deg); /* Safari */
+    transform: rotateZ(210deg);
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: sans-serif;
+    position: absolute;
+    left: 100px;
+    top:380px;
+}
+.point12 {
+    -webkit-transform: rotateZ(240deg); /* Safari */
+    transform: rotateZ(240deg);
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: sans-serif;
+    position: absolute;
+    left: 40px;
+    top:320px;
+}
+
+.point {
+    position: absolute;
+    left: 500px;
+    top:400px;
+}
+
+
+
+.of1 {
+    -webkit-transform: rotateZ(270deg); /* Safari */
+    transform: rotateZ(270deg);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: serif;
+    position: absolute;
+    left: 10px;
+    top:230px;
+}
+.of2 {
+    -webkit-transform: rotateZ(300deg); /* Safari */
+    transform: rotateZ(300deg);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: serif;
+    position: absolute;
+    left: 40px;
+    top:140px;
+}
+.of3 {
+    -webkit-transform: rotateZ(330deg); /* Safari */
+    transform: rotateZ(330deg);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: serif;
+    position: absolute;
+    left: 100px;
+    top:80px;
+}
+.of4 {
+ -webkit-transform: rotateZ(360deg); /* Safari */
+    transform: rotateZ(360deg);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: serif;
+    position: absolute;
+    left: 190px;
+    top:60px;    
+}
+.of5 {
+    -webkit-transform: rotateZ(30deg); /* Safari */
+    transform: rotateZ(30deg);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: serif;
+    position: absolute;
+    left: 280px;
+    top:80px;
+}
+.of6 {
+    -webkit-transform: rotateZ(60deg); /* Safari */
+    transform: rotateZ(60deg);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: serif;
+    position: absolute;
+    left: 340px;
+    top:140px;
+}
+.of7 {
+    -webkit-transform: rotateZ(90deg); /* Safari */
+    transform: rotateZ(90deg);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: serif;
+    position: absolute;
+    left: 370px;
+    top:230px;
+}
+.of8 {
+    -webkit-transform: rotateZ(120deg); /* Safari */
+    transform: rotateZ(120deg);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: serif;
+    position: absolute;
+    left: 340px;
+    top:320px;
+}
+.of9 {
+    -webkit-transform: rotateZ(150deg); /* Safari */
+    transform: rotateZ(150deg);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: serif;
+    position: absolute;
+    left: 280px;
+    top:380px;
+}
+.of10 {
+    -webkit-transform: rotateZ(180deg); /* Safari */
+    transform: rotateZ(180deg);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: serif;
+    position: absolute;
+    left: 190px;
+    top:400px;
+}
+.of11 {
+    -webkit-transform: rotateZ(210deg); /* Safari */
+    transform: rotateZ(210deg);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: serif;
+    position: absolute;
+    left: 100px;
+    top:380px;
+}
+.of12 {
+    -webkit-transform: rotateZ(240deg); /* Safari */
+    transform: rotateZ(240deg);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: serif;
+    position: absolute;
+    left: 40px;
+    top:320px;
+}
+
+.of {
+    position: absolute;
+    left: 800px;
+    top: 800px;
+}
+
+
+.being1 {
+    -webkit-transform: rotateZ(270deg); /* Safari */
+    transform: rotateZ(270deg);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    position: absolute;
+    left: 10px;
+    top:230px;
+}
+.being2 {
+    -webkit-transform: rotateZ(300deg); /* Safari */
+    transform: rotateZ(300deg);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    position: absolute;
+    left: 40px;
+    top:140px;
+}
+.being3 {
+    -webkit-transform: rotateZ(330deg); /* Safari */
+    transform: rotateZ(330deg);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    position: absolute;
+    left: 100px;
+    top:80px;
+}
+.being4 {
+ -webkit-transform: rotateZ(360deg); /* Safari */
+    transform: rotateZ(360deg);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    position: absolute;
+    left: 190px;
+    top:60px;    
+}
+.being5 {
+    -webkit-transform: rotateZ(30deg); /* Safari */
+    transform: rotateZ(30deg);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    position: absolute;
+    left: 280px;
+    top:80px;
+}
+.being6 {
+    -webkit-transform: rotateZ(60deg); /* Safari */
+    transform: rotateZ(60deg);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    position: absolute;
+    left: 340px;
+    top:140px;
+}
+.being7 {
+    -webkit-transform: rotateZ(90deg); /* Safari */
+    transform: rotateZ(90deg);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    position: absolute;
+    left: 370px;
+    top:230px;
+}
+.being8 {
+    -webkit-transform: rotateZ(120deg); /* Safari */
+    transform: rotateZ(120deg);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    position: absolute;
+    left: 340px;
+    top:320px;
+}
+.being9 {
+    -webkit-transform: rotateZ(150deg); /* Safari */
+    transform: rotateZ(150deg);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    position: absolute;
+    left: 280px;
+    top:380px;
+}
+.being10 {
+    -webkit-transform: rotateZ(180deg); /* Safari */
+    transform: rotateZ(180deg);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    position: absolute;
+    left: 190px;
+    top:400px;
+}
+.being11 {
+    -webkit-transform: rotateZ(210deg); /* Safari */
+    transform: rotateZ(210deg);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    position: absolute;
+    left: 100px;
+    top:380px;
+}
+.being12 {
+    -webkit-transform: rotateZ(240deg); /* Safari */
+    transform: rotateZ(240deg);
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    position: absolute;
+    left: 40px;
+    top:320px;
+}
+
+.being {
+    position: absolute;
+    left: 1000px;
+    top: 100px;
+}
+
+
+.done1 {
+    -webkit-transform: rotateZ(270deg); /* Safari */
+    transform: rotateZ(270deg);
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    position: absolute;
+    left: 10px;
+    top:230px;
+}
+.done2 {
+    -webkit-transform: rotateZ(300deg); /* Safari */
+    transform: rotateZ(300deg);
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    position: absolute;
+    left: 40px;
+    top:140px;
+}
+.done3 {
+    -webkit-transform: rotateZ(330deg); /* Safari */
+    transform: rotateZ(330deg);
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    position: absolute;
+    left: 100px;
+    top:80px;
+}
+.done4 {
+ -webkit-transform: rotateZ(360deg); /* Safari */
+    transform: rotateZ(360deg);
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    position: absolute;
+    left: 190px;
+    top:60px;    
+}
+.done5 {
+    -webkit-transform: rotateZ(30deg); /* Safari */
+    transform: rotateZ(30deg);
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    position: absolute;
+    left: 280px;
+    top:80px;
+}
+.done6 {
+    -webkit-transform: rotateZ(60deg); /* Safari */
+    transform: rotateZ(60deg);
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    position: absolute;
+    left: 340px;
+    top:140px;
+}
+.done7 {
+    -webkit-transform: rotateZ(90deg); /* Safari */
+    transform: rotateZ(90deg);
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    position: absolute;
+    left: 370px;
+    top:230px;
+}
+.done8 {
+    -webkit-transform: rotateZ(120deg); /* Safari */
+    transform: rotateZ(120deg);
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    position: absolute;
+    left: 340px;
+    top:320px;
+}
+.done9 {
+    -webkit-transform: rotateZ(150deg); /* Safari */
+    transform: rotateZ(150deg);
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    position: absolute;
+    left: 280px;
+    top:380px;
+}
+.done10 {
+    -webkit-transform: rotateZ(180deg); /* Safari */
+    transform: rotateZ(180deg);
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    position: absolute;
+    left: 190px;
+    top:400px;
+}
+.done11 {
+    -webkit-transform: rotateZ(210deg); /* Safari */
+    transform: rotateZ(210deg);
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    position: absolute;
+    left: 100px;
+    top:380px;
+}
+.done12 {
+    -webkit-transform: rotateZ(240deg); /* Safari */
+    transform: rotateZ(240deg);
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    position: absolute;
+    left: 40px;
+    top:320px;
+}
+
+.done {
+    position: absolute;
+    left: 200px;
+    top: 1000px;
+}
+
+
+.flower {
+    position: absolute;
+    left: 160px;
+    top: 250px;
+}
+.flower2 {
+    position: absolute;
+    left: 610px;
+    top: 570px;
+}
+.flower3 {
+    position: absolute;
+    left: 1240px;
+    top: 400px;
+}
+.flower4 {
+    position: absolute;
+    left:320px;
+    top: 1130px;
+}
+.flower5 {
+    position: absolute;
+    left:950px;
+    top:1090px;
+}
+
+
+
+.manifesto {
+    font-family: cursive;
+    font-style: oblique;
+    text-align: center;
+    color: violet;
+    position: absolute;
+    left:900px;
+    top:50px; 
+}
+
+.manifesto2 {
+    font-family: cursive;
+    font-style: oblique;
+    text-align: center;
+    font-size: 25px;
+    color: palevioletred;
+    position: absolute;
+    left:600px;
+    top:200px; 
+}
+
+.manifesto3 {
+    font-family: cursive;
+    font-style: oblique;
+    text-align: center;
+    font-size: 40px;
+    color: blueviolet;
+    position: absolute;
+    left:50px;
+    top:650px; 
+}
+
+.manifesto4 {
+    font-family: cursive;
+    font-style: oblique;
+    text-align: center;
+    font-size: 50px;
+    color: lavender;
+    position: absolute;
+    left:50px;
+    top:1400px; 
+}
+
+.manifesto5 {
+    font-family: cursive;
+    font-style: oblique;
+    text-align: center;
+    font-size: 15px;
+    color: darkviolet;
+    position: absolute;
+    left:1200px;
+    top:800px; 
+}
+
+.manifesto6 {
+    font-family: cursive;
+    font-style: oblique;
+    text-align: center;
+    font-size: 30px;
+    color: lavenderblush;
+    position: absolute;
+    left:20px;
+    top:0px; 
+}
+

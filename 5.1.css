@@ -1,0 +1,356 @@
+/* Start here */
+
+body {
+    width: 2000px;
+    height: 3000px;
+}
+
+.done {
+    -webkit-transform: rotateZ(300deg); /* Safari */
+    transform: rotateZ(300deg);
+    font-size: 100px;
+    font-style: italic;
+    font-weight: 700;
+    font-family: cursive;
+    position: absolute;
+    left: 0px;
+    top:150px;
+}
+.finish {
+    -webkit-transform: rotateZ(325deg); /* Safari */
+    transform: rotateZ(325deg);
+    font-size: 75px;
+    font-style: italic;
+    font-weight: 600;
+    font-family: cursive;
+    position:absolute;
+    left:160px;
+    top:30px;
+}
+.other {
+   -webkit-transform: rotateZ(350deg); /* Safari */
+    transform: rotateZ(350deg);
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 500;
+    font-family: cursive;
+    position: absolute;
+    left: 360px;
+    top:5px;
+} 
+.things {
+    -webkit-transform: rotateZ(15deg); /* Safari */
+    transform: rotateZ(15deg);
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 400;
+    font-family: cursive;
+    position: absolute;
+    left: 475px;
+    top:55px;
+}
+
+
+
+.done1 {
+    -webkit-transform: rotateZ(300deg); /* Safari */
+    transform: rotateZ(300deg);
+    font-size: 150px;
+    font-style: italic;
+    font-weight: 700;
+    font-family: cursive;
+    position: absolute;
+    left: 150px;
+    top:300px;
+}
+.finish1 {
+    -webkit-transform: rotateZ(325deg); /* Safari */
+    transform: rotateZ(325deg);
+    font-size: 125px;
+    font-style: italic;
+    font-weight: 600;
+    font-family: cursive;
+    position:absolute;
+    left:380px;
+    top:100px;
+}
+.other1 {
+   -webkit-transform: rotateZ(350deg); /* Safari */
+    transform: rotateZ(350deg);
+    font-size: 100px;
+    font-style: italic;
+    font-weight: 500;
+    font-family: cursive;
+    position: absolute;
+    left: 700px;
+    top:20px;
+} 
+.things1 {
+    -webkit-transform: rotateZ(15deg); /* Safari */
+    transform: rotateZ(15deg);
+    font-size: 75px;
+    font-style: italic;
+    font-weight: 400;
+    font-family: cursive;
+    position: absolute;
+    left: 920px;
+    top:80px;
+}
+.not1 {
+   -webkit-transform: rotateZ(40deg); /* Safari */
+    transform: rotateZ(40deg);
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 300;
+    font-family: cursive;
+    position: absolute;
+    left: 1120px;
+    top: 190px; 
+}
+.but1 {
+   -webkit-transform: rotateZ(65deg); /* Safari */
+    transform: rotateZ(65deg);
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 200;
+    font-family: cursive;
+    position: absolute;
+    left: 1180px;
+    top: 290px; 
+}
+
+
+
+
+.done2 {
+    -webkit-transform: rotateZ(300deg); /* Safari */
+    transform: rotateZ(300deg);
+    font-size: 200px;
+    font-style: italic;
+    font-weight: 700;
+    font-family: cursive;
+    position: absolute;
+    left: 400px;
+    top:650px;
+}
+.finish2 {
+    -webkit-transform: rotateZ(325deg); /* Safari */
+    transform: rotateZ(325deg);
+    font-size: 175px;
+    font-style: italic;
+    font-weight: 600;
+    font-family: cursive;
+    position:absolute;
+    left:700px;
+    top:370px;
+}
+.other2 {
+   -webkit-transform: rotateZ(350deg); /* Safari */
+    transform: rotateZ(350deg);
+    font-size: 150px;
+    font-style: italic;
+    font-weight: 500;
+    font-family: cursive;
+    position: absolute;
+    left: 1140px;
+    top:245px;
+} 
+.things2 {
+    -webkit-transform: rotateZ(15deg); /* Safari */
+    transform: rotateZ(15deg);
+    font-size: 125px;
+    font-style: italic;
+    font-weight: 400;
+    font-family: cursive;
+    position: absolute;
+    left: 1465px;
+    top:305px;
+}
+.not2 {
+   -webkit-transform: rotateZ(40deg); /* Safari */
+    transform: rotateZ(40deg);
+    font-size: 100px;
+    font-style: italic;
+    font-weight: 300;
+    font-family: cursive;
+    position: absolute;
+    left: 1790px;
+    top: 460px; 
+}
+.but2 {
+   -webkit-transform: rotateZ(65deg); /* Safari */
+    transform: rotateZ(65deg);
+    font-size: 75px;
+    font-style: italic;
+    font-weight: 200;
+    font-family: cursive;
+    position: absolute;
+    left: 1900px;
+    top: 620px; 
+}
+.get2 {
+    -webkit-transform: rotateZ(90deg); /* Safari */
+    transform: rotateZ(90deg);
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 100;
+    font-family: cursive;
+    position: absolute;
+    left: 1960px;
+    top: 760px;
+}
+.to2 {
+    -webkit-transform: rotateZ(115deg); /* Safari */
+    transform: rotateZ(115deg);
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 50;
+    font-family: cursive;
+    position: absolute;
+    left: 1970px;
+    top: 850px;
+}
+
+.to3 {
+    -webkit-transform: rotateZ(130deg); /* Safari */
+    transform: rotateZ(130deg);
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 50;
+    font-family: cursive;
+    position: absolute;
+    left: 1955px;
+    top: 870px;
+}
+
+.to4 {
+    -webkit-transform: rotateZ(145deg); /* Safari */
+    transform: rotateZ(145deg);
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 50;
+    font-family: cursive;
+    position: absolute;
+    left: 1940px;
+    top: 890px;
+}
+
+.to5 {
+    -webkit-transform: rotateZ(160deg); /* Safari */
+    transform: rotateZ(160deg);
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 50;
+    font-family: cursive;
+    position: absolute;
+    left: 1915px;
+    top: 910px;
+}
+
+.to6 {
+    -webkit-transform: rotateZ(145deg); /* Safari */
+    transform: rotateZ(145deg);
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 50;
+    font-family: cursive;
+    position: absolute;
+    left: 1880px;
+    top: 930px;
+}
+
+.to7 {
+    -webkit-transform: rotateZ(130deg); /* Safari */
+    transform: rotateZ(130deg);
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 50;
+    font-family: cursive;
+    position: absolute;
+    left: 1840px;
+    top: 960px;
+}
+
+.to8 {
+    -webkit-transform: rotateZ(110deg); /* Safari */
+    transform: rotateZ(110deg);
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 50;
+    font-family: cursive;
+    position: absolute;
+    left: 1770px;
+    top: 1040px;
+}
+
+.to9 {
+    -webkit-transform: rotateZ(70deg); /* Safari */
+    transform: rotateZ(70deg);
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 50;
+    font-family: cursive;
+    position: absolute;
+    left: 1680px;
+    top: 1250px;
+}
+
+.to10 {
+     font-size: 25px;
+    font-style: italic;
+    font-weight: 50;
+    font-family: cursive;
+    position: absolute;
+    left: 1680px;
+    top: 1500px;
+}
+
+.gdone {
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 50;
+    font-family: cursive;
+    position: absolute;
+    left: 1680px;
+    top: 1600px;
+}
+
+.gdone2 {
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: cursive;
+    position: absolute;
+    left: 1500px;
+    top: 1800px;
+}
+
+.gdone3 {
+    font-size: 75px;
+    font-style: normal;
+    font-weight: 30;
+    font-family: serif;
+    position: absolute;
+    left: 1200px;
+    top: 2200px;
+}
+
+.gdone4 {
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 900;
+    font-family: sans-serif;
+    position: absolute;
+    left: 800px;
+    top: 2600px;
+}
+
+.gdone5 {
+    font-size: 200px;
+    font-style: normal;
+    font-weight: 900;
+    font-family: sans-serif;
+    letter-spacing: 30px;
+    font-kerning: 30px;
+    text-align: center;
+}

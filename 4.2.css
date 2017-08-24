@@ -1,0 +1,149 @@
+/* Start here */
+
+body {
+    width: 1000px;
+    height: 2500px;
+}
+
+.manifestol1 {
+    font-size: 120px;
+    font-family: sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: right;
+    letter-spacing: 1px;
+    line-height: 80px;
+    position: absolute;
+    right:0px;
+    
+}
+.manifestol2 {
+    font-size: 120px;
+    font-family: sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: right;
+    letter-spacing: 1px;
+    line-height: 80px;
+    position: absolute;
+    right:0px;
+    top:1210px;
+    
+}
+.manifestol3 {
+    font-size: 120px;
+    font-family: sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: right;
+    letter-spacing: 1px;
+    line-height: 80px;
+    position: absolute;
+    right:0px;
+    top:2420px;
+    
+}
+.manifestol4 {
+    font-size: 120px;
+    font-family: sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: right;
+    letter-spacing: 1px;
+    line-height: 80px;
+    position: absolute;
+    right:0px;
+    top:3630px;
+    
+}
+
+.manifestor1 {
+    font-size: 120px;
+    font-family: sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: left;
+    letter-spacing: 1px;
+    line-height: 80px;
+    position: absolute;
+    left:0px;
+    
+}
+.manifestor2 {
+    font-size: 120px;
+    font-family: sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: left;
+    letter-spacing: 1px;
+    line-height: 80px;
+    position: absolute;
+    left:0px;
+    top: 1210px;
+    
+}
+.manifestor3 {
+    font-size: 120px;
+    font-family: sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: left;
+    letter-spacing: 1px;
+    line-height: 80px;
+    position: absolute;
+    left:0px;
+    top:2420px;
+    
+}
+.manifestor4 {
+    font-size: 120px;
+    font-family: sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: left;
+    letter-spacing: 1px;
+    line-height: 80px;
+    position: absolute;
+    left: 0px;
+    top: 3630px;
+    
+}
+.manifestos{
+    color:darkseagreen;
+}
+
+
+.mid{
+    border: 10px black solid;
+    width: 290px;
+    height:250px;
+    border-style: double;
+    border-radius:0px;
+    padding-left: 30px;
+    padding-top:70px;
+    position: fixed;
+    left: 460px;
+    top: 100px;
+    
+    font-family: monospace;
+    font-size: 50px
+}
+.flower {
+    position:fixed;
+    left: 430px;
+    top: 70px;
+}
+.white{
+    width:360px;
+    height:360px;
+    background-color: floralwhite;
+    position:fixed;
+    left:450px;
+    top:90px;
+}
+.tag{
+    position:fixed;
+    left: 520px;
+    top: 350px;
+    font-family: cursive
+}

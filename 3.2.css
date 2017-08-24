@@ -1,0 +1,165 @@
+body {
+    width: 1000px;
+    height: 900px;
+}
+
+.one{
+    position: absolute;
+    left: 70px;
+    top: 70px
+}
+.inner {
+    width: 30px;
+    height: 60px;
+    border-left: 30px solid darkgreen;
+    background-color: darkseagreen;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    
+    position: absolute;
+    left: 70px;
+    top:70px;
+}
+.outer {
+    width: 100px;
+    height:100px;
+    background-color: black;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+    position: absolute;
+    left: 50px;
+    top:50px;
+}
+
+.two{
+    position: absolute;
+    left: 430px;
+    top: 70px;
+}
+.inner2 {
+    width: 30px;
+    height: 60px;
+    border-left: 30px solid darkgreen;
+    background-color: darkseagreen;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    
+    position: absolute;
+    left: 70px;
+    top:70px;
+}
+.outer2 {
+    width: 100px;
+    height:100px;
+    background-color: black;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+    position: absolute;
+    left: 50px;
+    top:50px;
+}
+
+.three{
+position: absolute;
+    left: 790px;
+    top: 70px;
+}
+.inner3 {
+    width: 30px;
+    height: 60px;
+    border-left: 30px solid darkgreen;
+    background-color: darkseagreen;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    
+    position: absolute;
+    left: 70px;
+    top:70px;
+}
+.outer3 {
+    width: 100px;
+    height:100px;
+    background-color: black;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+    position: absolute;
+    left: 50px;
+    top:50px;
+}
+
+.four{
+    position: absolute;
+    left: 1150px;
+    top: 70px;
+}
+.inner4 {
+    width: 30px;
+    height: 60px;
+    border-left: 30px solid darkgreen;
+    background-color: darkseagreen;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    
+    position: absolute;
+    left: 70px;
+    top:70px;
+}
+.outer4 {
+    width: 100px;
+    height:100px;
+    background-color: black;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+    position: absolute;
+    left: 50px;
+    top:50px;
+}
+
+.second {
+    position: absolute;
+    left:180px;
+    top:200px;
+}
+.third {
+    position: absolute;
+    left: 0px;
+    top: 400px;
+}
+.fourth {
+    position: absolute;
+    left:180px;
+    top:600px;
+}
+
+.manifesto1 {
+    position: fixed;
+    width: 550px;
+    height: 40px;
+    padding-top: 20px;
+    background-color: darkseagreen;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.manifesto2 {
+    position: fixed;
+    width: 550px;
+    height: 40px;
+    padding-top: 20px;
+    background-color: forestgreen;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    left:300px;
+    top: 200px;
+}
+
+.manifesto3 {
+    position: fixed;
+    width: 550px;
+    height: 40px;
+    padding-top: 20px;
+    background-color: darkgreen;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    left:550px;
+    top:500px;
+    

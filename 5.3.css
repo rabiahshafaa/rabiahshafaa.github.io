@@ -1,0 +1,275 @@
+/* Start here */
+
+body {
+    width: 1500px;
+    height: 1600px;
+}
+
+
+.finish1 {
+    -webkit-transform: rotateZ(270deg); /* Safari */
+    transform: rotateZ(270deg);
+    color:white;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    position: absolute;
+    left: 340px;
+    top: 500px;
+}
+
+.done {
+    -webkit-transform: rotateZ(170deg); /* Safari */
+    transform: rotateZ(170deg);
+    color:white;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 90px;
+    position: absolute;
+    left: 20px;
+    top:320px;
+}
+
+.point {
+    -webkit-transform: rotateZ(80deg); /* Safari */
+    transform: rotateZ(80deg);
+    color:white;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: serif;
+    letter-spacing: 10px;
+    position: absolute;
+    left: 500px;
+    top:200px;
+}
+.other {
+    -webkit-transform: rotateZ(170deg); /* Safari */
+    transform: rotateZ(170deg);
+    color:white;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 100;
+    font-family: serif;
+    text-transform: normal;
+    letter-spacing: 70px;
+    position: absolute;
+    left: 400px;
+    top:450px;
+}
+.things {
+    -webkit-transform: rotateZ(45deg); /* Safari */
+    transform: rotateZ(45deg);
+    color:white;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: cursive;
+    text-transform: uppercase;
+    letter-spacing: 20px;
+    position: absolute;
+    left: 950px;
+    top:480px;
+}
+.being {
+      -webkit-transform: rotateZ(67deg); /* Safari */
+    transform: rotateZ(67deg);
+    color:white;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-transform: normal;
+    letter-spacing: 50px;
+    position: absolute;
+    left: 700px;
+    top:320px;
+}
+.the {
+      -webkit-transform: rotateZ(180deg); /* Safari */
+    transform: rotateZ(180deg);
+    color:white;
+    font-size: 300px;
+    font-style: normal;
+    font-weight: 500;
+    font-family: fantasy;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    position: absolute;
+    left: 500px;
+    top: 400px;
+}
+.not {
+      -webkit-transform: rotateZ(190deg); /* Safari */
+    transform: rotateZ(190deg);
+    color:white;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    position: absolute;
+    left: 100px;
+    top: 600px;
+}
+.is {
+      -webkit-transform: rotateZ(90deg); /* Safari */
+    transform: rotateZ(90deg);
+    color:white;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: serif;
+    text-transform: normal;
+    letter-spacing: 50px;
+    position: absolute;
+    left: 10px;
+    top: 200px;
+}
+.get {
+      -webkit-transform: rotateZ(340deg); /* Safari */
+    transform: rotateZ(340deg);
+    color:white;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-transform: normal;
+    letter-spacing: 1px;
+    position: absolute;
+    left: 1100px;
+    top: 200px;
+}
+
+.of {
+      -webkit-transform: rotateZ(310deg); /* Safari */
+    transform: rotateZ(310deg);
+    color:white;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: monospace;
+    text-transform: normal;
+    letter-spacing: 100px;
+    position: absolute;
+    left: 900px;
+    top:100px;
+}
+.to {
+      -webkit-transform: rotateZ(170deg); /* Safari */
+    transform: rotateZ(170deg);
+    color:white;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: px;
+    position: absolute;
+    left: 300px;
+    top:120px;
+}
+.but {
+      -webkit-transform: rotateZ(30deg); /* Safari */
+    transform: rotateZ(30deg);
+    color:white;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: serif;
+    text-transform: normal;
+    letter-spacing: 50px;
+    position: absolute;
+    left: 20px;
+    top:490px;
+}
+.done2 {
+      -webkit-transform: rotateZ(15deg); /* Safari */
+    transform: rotateZ(15deg);
+    color:white;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: fantasy;
+    text-transform: normal;
+    letter-spacing: 1px;
+    position: absolute;
+    left: 1020px;
+    top:320px;
+}
+.finish2 {
+      -webkit-transform: rotateZ(80deg); /* Safari */
+    transform: rotateZ(80deg);
+    color:white;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: monospace;
+    text-transform: uppercase;
+    letter-spacing: 80px;
+    position: absolute;
+    left: 1070px;
+    top:350px;
+}
+.other2 {
+      -webkit-transform: rotateZ(20deg); /* Safari */
+    transform: rotateZ(10deg);
+    color:white;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 100;
+    font-family: monospace;
+    text-transform: normal;
+    letter-spacing: 0px;
+    position: absolute;
+    left: 100px;
+    top:40px;
+}
+.done3{
+      -webkit-transform: rotateZ(170deg); /* Safari */
+    transform: rotateZ(170deg);
+    color:white;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 100;
+    font-family: cursive;
+    text-transform: normal;
+    letter-spacing: 50px;
+    position: absolute;
+    left:500px;
+    top:10px;
+}
+
+.gdone {  
+font-size:100px;
+font-style: normal;
+font-family: monospace;
+font-weight:700;
+text-align: center;
+text-transform: capitalize;
+color: black;
+position: fixed;
+top: 480px;
+}
+
+.border {
+width:1500px;
+height:800px;
+background-color: white;
+position: absolute;
+top:900px;
+}
+
+
+.cat {
+    position: absolute;
+    left:500px;
+    top:1100px;
+}
